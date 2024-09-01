@@ -61,4 +61,3 @@ This Excel dashboard project provides valuable insights into the sales operation
 
 ---
 
-Feel free to customize this `README.md` file further to match your specific needs or add any additional details!
