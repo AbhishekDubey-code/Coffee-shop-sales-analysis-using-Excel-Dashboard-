@@ -1,6 +1,7 @@
 # Coffee Shop Sales Analysis Using Excel Dashboard
 
-This project involves a comprehensive analysis of coffee shop sales data using Microsoft Excel to create a dynamic and interactive dashboard. The dashboard provides insights into sales performance, transaction patterns, and product popularity, helping to identify key trends and areas for improvement. The project is structured around three main objectives: data preparation, data exploration using PivotTables, and building a dynamic dashboard.
+This project involves a comprehensive analysis of coffee shop sales data using Microsoft Excel to create a dynamic and interactive dashboard. The dashboard provides insights into sales performance, transaction patterns etc.
+The project is structured around three main objectives: data preparation, data exploration using PivotTables, and building a dynamic dashboard.
 
 ## Project Overview
 
